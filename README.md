@@ -1,2 +1,2 @@
 # WEB
-Laptop WEB page
+awardspace.com veidotās mājaslapas ar datubāžu palīdzību
